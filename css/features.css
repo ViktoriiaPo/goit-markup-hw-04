@@ -16,3 +16,18 @@
 .headings-features {
   margin-bottom: 8px;
 }
+.list-features-box {
+  background-color: #f4f4fd;
+  width: 264px;
+  height: 112px;
+  margin-bottom: 8px;
+  border: solid 1px #8e8f99;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon-illustration {
+  width: 64px;
+  height: 64px;
+}

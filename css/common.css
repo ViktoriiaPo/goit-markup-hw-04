@@ -78,3 +78,13 @@ img {
   max-width: 100%;
   height: auto;
 }
+.icons {
+  fill: #f4f4fd;
+  width: 16px;
+  height: 16px;
+}
+.icons-footer {
+  fill: #f4f4fd;
+  width: 24px;
+  height: 24px;
+}
