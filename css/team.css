@@ -1,0 +1,42 @@
+.team .general-headings {
+  display: flex;
+  margin-bottom: 72px;
+  width: 1158px;
+  justify-content: center;
+}
+.team .headings {
+  text-align: center;
+}
+.team p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+.team {
+  background-color: #f4f4fd;
+}
+.team li {
+  background-color: #ffffff;
+}
+.team-list-item {
+  width: calc((100% - 24px * 3) / 4);
+  border-radius: 0 0 4px 4px;
+}
+.cards {
+  padding: 32px 16px;
+}
+.cards .headings {
+  margin-bottom: 8px;
+}
+.team-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.list-people {
+  display: flex;
+  width: 1158px;
+  gap: 24px;
+}
